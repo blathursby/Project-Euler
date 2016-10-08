@@ -1,0 +1,1 @@
+This is my first project with my newly learned knowledge of javascript, CSS, and HTML.
